@@ -1,2 +1,1 @@
-# Pandas-Tutorial
-In this Notebook we can learn : What is Pandas Library?. What is Series and Dataframe?. Important Function and attributes of Series and Dataframe.
+I'm using Jupyter notebook and python 3 for this tutorial. For practice this tutorial first you should install 'Anaconda' from google then install 'Jupyter notebook' in Anaconda platform. After the installation of notebook install important pandas Library. This notebook is available on Kaggle. If you like this notebook Upvote me on Kaggle. Click on the link for Download 'Anaconda'. https://www.anaconda.com/products/distribution#Downloads
