@@ -20,12 +20,10 @@ Pandas-Tutorial:panda_face:
 </h1>
 
  <p align="center">
-    <img src="[https://files.realpython.com/media/Primer-on-Python-Decorators_Watermarked.d0da542fa3fc.jpg](https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz)" width="800" align="center"/>
- 
+    <img src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" width="800" align="center"/> 
 </p>
+
  <h1><center><strong><font size=100px>Required Tools</font></strong></center></h1>
- 
-<strong>Click on the link for Download 'Anaconda'.</strong>  https://www.anaconda.com/products/distribution#Downloads <br>
 We are using Jupyter notebook and python 3 for this tutorial. For practice this tutorial first you should install 'Anaconda' from google then install 'Jupyter notebook' in Anaconda platform. After the installation of notebook install important pandas and Numpy Library. This notebook is available on Kaggle. If you like this notebook Upvote :thumbsup: me on Kaggle. Click on the link for Download 'Anaconda'. https://www.anaconda.com/products/distribution#Downloads
 
 - Anaconda
