@@ -4,7 +4,7 @@ Pandas-Tutorial:panda_face:
 </h1>
 
  <p align="center">
-    <img src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" width="800" align="center"/> 
+    <img src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" width="600" align="center"/> 
 </p>
 
  <h1><center><strong><font size=100px>Required Tools</font></strong></center></h1>
@@ -20,7 +20,7 @@ We are using Jupyter notebook and python 3 for this tutorial. For practice this 
 Python is user friendly and high-level language. It's very easy to learn and read. Python makes the code short and Flexible. Python is used to Develop Web-App, Software, Machine learning, Deep Learning and data analysis, etc.
 
 <p align="center">
-    <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Operations-0-1.png" width="200">
+    <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Operations-0-1.png" width="600">
 </p>
 
 <h1><center><strong><font size=90px>Learn Topics:</font></strong></center></h1>
