@@ -1,7 +1,6 @@
 <h1> <p align="center">
 Pandas-Tutorial:panda_face:
-</p>
-</h1>
+</p></h1>
 
  <p align="center">
     <img src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" width="600" align="center"/> 
@@ -19,6 +18,9 @@ We are using Jupyter notebook and python 3 for this tutorial. For practice this 
 
 Python is user friendly and high-level language. It's very easy to learn and read. Python makes the code short and Flexible. Python is used to Develop Web-App, Software, Machine learning, Deep Learning and data analysis, etc.
 
+<h1> <p align="center">
+Pandas:panda_face: actions which we can learn:
+</p></h1>
 <p align="center">
     <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Operations-0-1.png" width="600">
 </p>
@@ -29,7 +31,7 @@ Python is user friendly and high-level language. It's very easy to learn and rea
 * what is Series & DataFrame and how to create Series and DataFrames using various methods in Pandas.
 * How to change and  access the elements in Pandas Series and DataFrames.
 * Handling missing values in Series and DataFrame.
-* How to extract, filter and transform datainto a DataFrame and 
+* How to extract, filter and transform data into a DataFrame 
 * calculate statistics and create visualizations of Data
 * Using of Different methods and attributes which can helps us in data manipulation and analysis
 
