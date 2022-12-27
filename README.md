@@ -48,15 +48,12 @@ There are some Characteristics of Python:
 </p>
 
 <h1><center><strong><font size=90px>Learn Topics:</font></strong></center></h1>
-In this python Tutorial , We can learn Python language in detail with all the Concepts with the best examples. Python is used in so many fields like Develop Web-App, Software, Task Automation and Data-Analysis, etc which is the Future of the World. In this Tutorial, every topic has Two or more examples.
-So learn and practice <strong><font color=b16e0d> "Fly High and Touch the Sky". </font><strong> <br><br>
-In this python Tutorial we have covered the following topics: 
-
-- Data-Types
-- Comparison Operators
-- If & Else Statement
-- For & While Loop
-- Function
-- Lambda Function
-- File I/O
+ <strong><font color=b16e0d> In this Notebook we can learn Pandas: </font><strong>.<br>
+- What is Pandas Library and how to import Pandas Library.
+* what is Series & DataFrame and how to create Series and DataFrames using various methods in Pandas.
+* How to change and  access the elements in Pandas Series and DataFrames.
+* Handling missing values in Series and DataFrame.
+* How to extract, filter and transform datainto a DataFrame and 
+* calculate statistics and create visualizations of Data
+* Using of Different methods and attributes which can helps us in data manipulation and analysis
 
