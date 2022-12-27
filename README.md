@@ -15,12 +15,12 @@ We are using Jupyter notebook and python 3 for this tutorial. For practice this 
 - Pandas Library
 - Numpy Library
 
-<h1><center><strong><font size=90px>Introduction of Python</font></strong></center></h1>
+<h1><center><strong><font size=90px>Introduction of Pandas</font></strong></center></h1>
 
 Python is user friendly and high-level language. It's very easy to learn and read. Python makes the code short and Flexible. Python is used to Develop Web-App, Software, Machine learning, Deep Learning and data analysis, etc.
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/270px-Python.svg.png" width="200">
+    <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Operations-0-1.png" width="200">
 </p>
 
 <h1><center><strong><font size=90px>Learn Topics:</font></strong></center></h1>
