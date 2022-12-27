@@ -15,12 +15,12 @@ Using of Different methods and attributes which can helps us in data manipulatio
 
 
 <h1> <p align="center">
-Pandas-Tutorial:pandas:
+Pandas-Tutorial:panda_face:
 </p>
 </h1>
 
  <p align="center">
-    <img src="https://files.realpython.com/media/Primer-on-Python-Decorators_Watermarked.d0da542fa3fc.jpg" width="800" align="center"/>
+    <img src="[https://files.realpython.com/media/Primer-on-Python-Decorators_Watermarked.d0da542fa3fc.jpg](https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz)" width="800" align="center"/>
  
 </p>
  <h1><center><strong><font size=100px>Required Tools</font></strong></center></h1>
