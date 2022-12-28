@@ -14,7 +14,7 @@ We are using Jupyter notebook and python 3 for this tutorial. For practice this 
 - Pandas Library
 - Numpy Library
 
-<h1><center><strong><font size=90px>Introduction of Pandas</font></strong></center></h1>
+<h1><center><strong><font size=90px>Introduction of Pandas:panda_face:</font></strong></center></h1>
 
 Python is user friendly and high-level language. It's very easy to learn and read. Python makes the code short and Flexible. Python is used to Develop Web-App, Software, Machine learning, Deep Learning and data analysis, etc.
 
