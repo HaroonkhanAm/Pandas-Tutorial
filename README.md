@@ -18,9 +18,9 @@ We are using Jupyter notebook and python 3 for this tutorial. For practice this 
 
 Python is user friendly and high-level language. It's very easy to learn and read. Python makes the code short and Flexible. Python is used to Develop Web-App, Software, Machine learning, Deep Learning and data analysis, etc.
 
-<h1> <p align="center">
+<h3> <p align="center">
 Pandas:panda_face: actions which we can learn:
-</p></h1>
+</p></h3>
 <p align="center">
     <img src="https://www.edureka.co/blog/wp-content/uploads/2018/03/Operations-0-1.png" width="600">
 </p>
