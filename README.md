@@ -1,9 +1,11 @@
 <h1> <p align="center">
-Pandas-Tutorial:panda_face:
+Numpy-Tutorial
 </p></h1>
 
  <p align="center">
     <img src="https://cdn.filestackcontent.com/GgTFAbNTtiA09pWpwLAz" width="600" align="center"/> 
+ 
+    <img src="https://miro.medium.com/max/1100/1*1HgaZPEEZcMtgnL_Fq89vQ.webp" alt="Drawing" style="width: 900px; height:300px;"/>
 </p>
 
  <h1><center><strong><font size=100px>Required Tools</font></strong></center></h1>
