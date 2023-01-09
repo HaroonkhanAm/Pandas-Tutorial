@@ -7,7 +7,7 @@
 </p>
 
  <h1><center><strong><font size=100px>Required Tools</font></strong></center></h1>
-We are using Jupyter notebook and python 3 for this tutorial. For practice this tutorial first you should install 'Anaconda' from google then install 'Jupyter notebook' in Anaconda platform. After the installation of notebook install important pandas and Numpy Library. This notebook is available on Kaggle. If you like this notebook Upvote :thumbsup: me on Kaggle. Click on the link for Download 'Anaconda'. https://www.anaconda.com/products/distribution#Downloads <br>
+We are using Jupyter notebook and python 3 for this tutorial. For practice this tutorial first you should install 'Anaconda' from google then install 'Jupyter notebook' in Anaconda platform. After the installation of notebook install important pandas and Numpy Library. This notebook is available on Kaggle. If you like this notebook Upvote :thumbsup: me on Kaggle https://www.kaggle.com/code/haroonkhan0011/pandas-tutorial. Click on the link for Download 'Anaconda'. https://www.anaconda.com/products/distribution#Downloads <br>
 
 - Anaconda
 - python 3
